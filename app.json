@@ -9,16 +9,16 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~GrwkzTZK#7dc7Ada6J50rmu-leSSY41-78BrcNjnaV5zs4aaCo7Y",
       "required": true
     },
     "MODE": {
-      "description": "set Mode  to public or private",
+      "description": "private",
       "required": false,
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "elton",
       "required": true,
       "value": "Gifted Tech"
     },
@@ -28,7 +28,7 @@
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
+      "description": "8299826619",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
@@ -45,7 +45,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 💚",
       "required": false,
-      "value": "💚"
+      "value": "🇭🇹"
     },
     "AUTO_REPLY_STATUS": {
       "description": "make it true if you want the bot to send message after viewing status else leave blank",
